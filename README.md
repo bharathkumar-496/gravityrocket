@@ -35,4 +35,4 @@ uv pip install --python .venv/bin/python -r requirements.txt
 .venv/bin/python src/evaluate.py
 ```
 
-The rules live in `src/rewards.py`. Project idea from Hari Ganesh's guide.
+The rules live in `src/rewards.py`.
